@@ -17,10 +17,10 @@ ClinFHIR ist ein Werkzeug zur Modellierung von FHIR-Ressourcen auf öffentlichen
   * [Beispieldatensatz](annotool/Beispiel_POLAR_WP1.3_adaptiert.csv) aus dem [POLAR_MI Use Case](https://www.medizininformatik-initiative.de/de/POLAR) der MII
 * [Folien zur Übung](annotool/Übung_Annotool.pdf)
 
-## 4. Übung zu metadatengetriebener Datenextraktion (30 min.)
+## 4. Übung zu metadatengetriebener Datenextraktion
 FAIR4Health Data Curation Tool: Ein Werkzeug zur Umwandlung von CSV-Daten in FHIR-Ressourcen
 * [Data Curation Tool](https://github.com/fair4health/data-curation-tool/releases): Download zur Installation
-* [FHIR-Server](dct/https://github.com/fair4health/common-data-model/releases): gezippte Variante mit benötigten Profilen
+* [FHIR-Server](https://github.com/fair4health/common-data-model/releases): gezippte Variante mit benötigten Profilen
 * [Demodatensatz](https://github.com/fair4health/dmea-werkstatt-2022/blob/main/Demodaten/F4H_DEMO.zip) mit Patienten, Fällen, Diagnosem Laborwerten, Medikationen in getrennten Tabellen
-* [Folien zur Übung]
+* [Folien zur Übung](dct/Übung_DCT.pdf)
 * [Handbuch zum Demodatensatz](https://github.com/fair4health/dmea-werkstatt-2022/blob/main/Anleitungen/D4.1-Annex-I_DataCurationTool_UserGuide.pdf) (englisch, Deliverable des EU-Projekts)
